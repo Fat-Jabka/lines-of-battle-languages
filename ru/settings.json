@@ -69,7 +69,7 @@
   },
   "shadows": {
     "title": "Тени",
-    "description": "Включает тени на юнитах. Это может потребовать, чтобы игра пропустила ход для обновления юнитов."
+    "description": "Включает тени отрядов. Возможен пропуск хода для обновления графики."
   },
 
   "fullScreen": {
@@ -87,23 +87,23 @@
 
   "lineFormation": "Линейное построение",
   "checkerboardFormation": "Шахматное построение",
-  "spaceBetweenUnits": "Расстояние между единицами",
+  "spaceBetweenUnits": "Расстояние между отрядами",
   "spaceBetweenLines": "Расстояние между линиями",
 
   "keybindings": {
     "title": "Горячие клавиши",
-    "pressAKey": "Нажми клавишу...",
-    "moveUp": "Двигаться вверх",
-    "moveDown": "Двигаться вниз",
-    "moveLeft": "Двигаться влево",
-    "moveRight": "Двигаться вправо",
+    "pressAKey": "Нажмите клавишу...",
+    "moveUp": "Вверх",
+    "moveDown": "Вниз",
+    "moveLeft": "Влево",
+    "moveRight": "Вправо",
     "info": "Информация",
-    "submitOrders": "Отправить приказы",
-    "deselect": "Снять выделение",
-    "moveOrder": "Приказ на движение",
-    "seekOrder": "Приказ на поиск",
-    "shootOrder": "Приказ на стрельбу",
-    "fireAndAdvanceOrder": "Приказ открыть огонь и продвигаться",
-    "fallbackOrder": "Приказ на отступление"
+    "submitOrders": "Отдать приказы",
+    "deselect": "Отменить выбор",
+    "moveOrder": "Движение",
+    "seekOrder": "Ближний бой",
+    "shootOrder": "Огонь",
+    "fireAndAdvanceOrder": "Огонь при движении",
+    "fallbackOrder": "Отход"
   }
 }
